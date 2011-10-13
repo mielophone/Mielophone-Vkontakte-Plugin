@@ -1,0 +1,1 @@
+Official vk.com plugin
