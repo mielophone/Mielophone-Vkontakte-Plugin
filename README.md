@@ -1,1 +1,1 @@
-Official vk.com plugin
+Official vk.com plugin for Mielophone (Adobe AIR version)
